@@ -18,6 +18,8 @@
     
     👤 Author
 
+    🙏 Acknowledgments
+
  # 📖 About The Project
 
  The Integrated Banking System is a comprehensive console-based enterprise-grade application designed to simulate real-world core banking operations. Built with strict adherence to Object-Oriented Programming (OOP) principles, design patterns, and modular separation of concerns, the system handles client accounts, transaction processing, multi-currency exchange rates, user permission management, and secure system logging.
