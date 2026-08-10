@@ -100,7 +100,7 @@ g++ test.cpp -ICoreObjects -ILib -IScreens -IScreens/Clients -IScreens/Currency 
 # 👤 Author
 
 Mohamed Ahmed Gwiada 
-GitHub: @mohamedahmed204-jpg
+GitHub: mohaamedahmed204-jpg
 
 # 🙏 Acknowledgments
 
