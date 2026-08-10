@@ -99,6 +99,12 @@ g++ test.cpp -ICoreObjects -ILib -IScreens -IScreens/Clients -IScreens/Currency 
 
 # 👤 Author
 
-Mohamed Ahmed
+Mohamed Ahmed Gwiada 
 GitHub: @mohamedahmed204-jpg
 
+# 🙏 Acknowledgments
+
+This project is part of the Programming Advices Training Track led by:
+
+    👨‍🏫 Dr. Mohamed Abouhadhood
+    💻 Platform: Programming Advices
