@@ -2,7 +2,7 @@
 
 # 🚀 Integrated Banking System (C++)
 
-## 📌 Table of Contents
+## 📌 Table of Contents.   
 
     📖 About The Project
 
