@@ -108,5 +108,5 @@ GitHub: mohaamedahmed204-jpg
 
 This project is part of the Programming Advices Training Track led by:
 
-    👨‍🏫 Dr. Mohamed Abouhadhood
-    💻 Platform: Programming Advices
+* 👨‍🏫 Dr. Mohamed Abouhadhood
+* 💻 Platform: Programming Advices
