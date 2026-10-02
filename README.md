@@ -101,8 +101,7 @@ g++ test.cpp -ICoreObjects -ILib -IScreens -IScreens/Clients -IScreens/Currency 
 
 # 👤 Author
 
-Mohamed Ahmed Gwiada 
-GitHub: mohaamedahmed204-jpg
+* Mohamed Ahmed Gwiada 
 
 # 🙏 Acknowledgments
 
